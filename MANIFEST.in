@@ -1,1 +1,1 @@
-recursive-include saludador/resources *
+recursive-include src/saludador/resources *
